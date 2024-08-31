@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+h2{
+    text-align: center;
+    color:darkblue;
+    font-family:Helvetica;
+}
+body{
+    background-color: lightblue;
+}
+main{
+   margin: 100px
+}
+p{
+    color: blue
+}
